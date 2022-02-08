@@ -1,6 +1,0 @@
-.venv
-.db.sqilite3
-.manage.py
-.media
-.static
-.gitignore
